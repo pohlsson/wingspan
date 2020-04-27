@@ -1,0 +1,171 @@
+ID,ScientificName,EnglishName,GermanName,PowerType,PowerCategory,PowerDetails,Predator,Flocking,VictoryPoints,NestType,EggLimit,WingspanCM,HabitatForest,HabitatGrasslands,HabitatWetlands,FoodNone,FoodWild,FoodInvertebrate,FoodSeed,FoodFruit,FoodFish,FoodRodent
+37,Melanerpes formicivorus,Acorn Woodpecker,Eichelspecht,Activated,Caching Food,Gain 1 seed from the birdfeeder (if available). You may cache it on this card.,n,n,5,Cavity,4,46,y,n,n,0,0,0,3,0,0,0
+44,Recurvirostra americana,American Avocet ,Braunhals-Säbelschnäbler,Between,Egg-laying,"When another player takes the “lay eggs” action, this bird lays 1 egg on another with a ground nest.",n,n,6,Ground,2,79,n,n,y,0,0,2,1,0,0,0
+79,Botaurus lentiginosus,American Bittern ,Nordamerik. Rohdrommel,Activated,Card-drawing,Player(s) with fewest Wetland birds: draw 1 card.,n,n,7,Platform,2,107,n,n,y,0,0,1,0,0,1,1
+89,Fulica americana,American Coot,Amerik. Blässhuhn,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,3,Platform,5,61,n,n,y,0,1,0,1,0,0,0
+25,Corvus brachyrhynchos,American Crow ,Amerikanerkrähe,Activated,Food from Supply,Discard 1 egg from any of your other birds to gain 1 food (of any type) from the supply.,n,n,4,Platform,2,99,y,y,y,0,1,0,0,0,0,0
+17,Spinus tristis,American Goldfinch ,Goldzeisig,Played,Food from Supply,Gain 3 seeds from the supply.,n,n,3,Bowl,3,23,n,y,n,0,0,0,2,0,0,0
+123,Falco sparverius,American Kestrel ,Buntfalke,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are rodents, gain 1 rodent and cache it on this card.",y,n,5,Cavity,3,56,n,y,n,0,0,1,0,0,0,1
+81,Haematopus palliatus,American Oystercatcher,Braunmantel-Austernfischer,Played,Card-drawing,"Draw cards equal to the number of players +1. Starting with you and proceeding clockwise, each player selects 1 of those cards and places it in their hand. You keep the extra card.",n,n,5,Ground,2,81,n,n,y,0,0,2,0,0,0,0
+90,Turdus migratorius,American Robin,Wanderrossel,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,1,Bowl,4,43,y,y,n,0,0,0.45,0,0.45,0,0
+102,Pelecanus erythrorhynchos,American White Pelican ,Nashornpelikan,Activated,Flocking,Discard 1 fish to tuck 2 cards from the deck behind this bird.,n,y,5,Ground,1,274,n,n,y,0,0,0,0,0,2,0
+167,Scolopax minor,American Woodcock,Kanadaschnepfe,None,None,None,n,n,9,Ground,2,46,y,y,n,0,0,2,1,0,0,0
+117,Anhinga anhinga,Anhinga,Amerik. Schlangerhalsvogel,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are fish, gain 1 fish and cache it on this card.",y,n,6,Platform,2,114,n,n,y,0,0,0,0,0,2,0
+7,Calypte anna,Anna’s Hummingbird ,Annakolibri,Activated,Food from Birdfeeder,"Each player gains 1 food from the birdfeeder, starting with the player of your choice.",n,n,4,Bowl,2,13,y,y,y,0,1,0,0,0,0,0
+49,Myiarchus cinerascens,Ash-Throated Flycatcher ,Kalifornien-Schopftyrann,Played,Egg-laying,Lay 1 egg on each of your birds with a Cavity nest.,n,n,4,Cavity,4,30,n,y,n,0,0,2,0,1,0,0
+140,Tratercula arctica,Atlantic Puffin,Papageitaucher,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,8,Wild,1,53,n,n,y,0,0,0,0,0,3,0
+57,Ammodramus bairdii,Baird’s Sparrow ,Bairdammer,Activated,Egg-laying,Lay 1 egg on any bird.,n,n,3,Ground,2,23,n,y,n,0,0,1,1,0,0,0
+5,Haliaeetus leucocephalus,Bald Eagle ,Weisskopf-Seeadler,Played,Food from Birdfeeder,Gain all Fish that are in the birdfeeder.,n,n,9,Platform,1,203,n,n,y,0,0,0,0,0,2,1
+22,Icterus galbula,Baltimore Oriole ,Baltimoretrupial,Activated,Food from Supply,All players gain 1 berry from the supply.,n,n,9,Wild,2,30,y,n,n,0,0,1,0,2,0,0
+124,Tyto alba,Barn Owl,Schleiereule,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are rodents, gain 1 rodent and cache it on this card.",y,n,5,Cavity,4,107,y,y,y,0,0,0,0,0,0,2
+91,Hirundo rustica,Barn Swallow,Rauchschwalbe,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,1,Wild,3,38,n,y,y,0,0,1,0,0,0,0
+107,Strix varia,Barred Owl,Streifenkauz,Activated,Hunting/Fishing,"Look at a card from the deck. If <75cm, tuck it under this card. If not, discard it.",y,n,3,Cavity,2,107,y,n,n,0,0,0,0,0,0,1
+45,Bucephala islandica,Barrow’s Goldeneye ,Spatelente,Between,Egg-laying,"When another player takes the “lay eggs” action, this bird lays 1 egg on another with a cavity nest.",n,n,5,Cavity,4,71,n,n,y,0,0,1,1,0,1,0
+141,Vireo bellii,Bell’s Vireo,Braunaugenvireo,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,4,Wild,2,18,y,y,n,0,0,2,0,0,0,0
+30,Megaceryle alcyon,Belted Kingfisher ,Gürtelfischer,Between,Food from Supply,"When another player plays a Wetland bird, gain 1 fish from the supply.",n,n,4,Wild,4,53,n,n,y,0,1,0,0,0,1,0
+129,Thryomanes bewickii,Bewick’s Wren,Buschzaunkönig,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,4,Cavity,3,18,y,y,y,0,0,2,1,0,0,0
+118,Rynchops niger,Black Skimmer ,Amerik. Scherenschnabel,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are fish, gain 1 fish and cache it on this card.",y,n,6,Ground,2,112,n,n,y,0,0,0,0,0,2,0
+66,Chlidonias niger,Black Tern,Trauerseeschwalbe,Activated,Card-drawing,"Draw 1 card. If you do, discard 1 card from your hand at the end of your turn.",n,n,4,Wild,2,61,n,n,y,0,0,0.45,0,0,0.45,0
+11,Coragyps atratus,Black Vulture ,Rabengeier,Between,Food from Birdfeeder,"When another player’s predator succeeds, gain 1 food from the birdfeeder.",n,n,2,Cavity,1,150,y,n,n,1,0,0,0,0,0,0
+103,Dendrocygna autumnalis,Black-Bellied Whistling-Duck,Rotschnabel-Pfeifgans,Activated,Flocking,Discard 1 seed to tuck 2 cards from the deck behind this bird.,n,y,2,Cavity,5,76,n,n,y,0,0,0,2,0,0,0
+10,Pica hudsonia,Black-billed Magpie ,Schwarzschnabelelster,Between,Food from Birdfeeder,"When another player’s predator succeeds, gain 1 food from the birdfeeder.",n,n,3,Wild,3,64,n,y,n,0,2,0,0,0,0,0
+26,Nycticorax nycticorax,Black-Crowned Night-Heron ,Nachtreiher,Activated,Food from Supply,Discard 1 egg from any of your other birds to gain 1 food (of any type) from the supply.,n,n,9,Platform,2,112,n,n,y,0,0,1,0,0,1,1
+64,Himantopus mexicanus,Black-necked Stilt ,Schwarznacken-Stelzenläufer,Played,Card-drawing,Draw 2 cards.,n,n,4,Ground,2,74,n,n,y,0,0,2,0,0,0,0
+130,Passerina caerulea,Blue Grosbeak,Azurfink,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,4,Bowl,3,28,y,y,y,0,0,1,2,0,0,0
+38,Cyanocitta cristata,Blue Jay,Blauhäher,Activated,Caching Food,Gain 1 seed from the birdfeeder (if available). You may cache it on this card.,n,n,3,Bowl,2,41,y,n,n,0,1,0,1,0,0,0
+13,Polioptila caerulea,Blue-Gray Gnatcatcher ,Blaumückenfänger,Activated,Food from Supply,Gain 1 invertebrate from the supply.,n,n,1,Bowl,3,15,y,n,n,0,0,1,0,0,0,0
+166,Vermivora cyanoptera,Blue-Winged Warbler,Blauflügel-Waldsänger,None,None,None,n,n,8,Bowl,2,20,y,y,n,0,0,2,0,0,0,0
+50,Dolichonyx oryzivorus,Bobolink,Reisstärling,Played,Egg-laying,Lay 1 egg on each of your birds with a Ground nest.,n,n,4,Ground,3,30,n,y,n,0,0,1,2,0,0,0
+85,Euphagus cyanocephalus,Brewer’s Blackbird ,Purpurstärling,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, also lay 1 egg on this bird.",n,y,3,Bowl,3,41,n,y,n,0,1,0,1,0,0,0
+46,Molothrus aeneus,Bronzed Cowbird ,Rotaugen-Kuhstärling,Between,Egg-laying,"When another player takes the “lay eggs” action, this bird lays 1 egg on another with a bowl nest.",n,n,5,None,0,36,n,y,n,0,0,1,1,0,0,0
+18,Pelecanus occidentalis,Brown Pelican,Braunpelikan,Played,Food from Supply,Gain 3 fish from the supply.,n,n,4,Platform,2,201,n,n,y,0,0,0,0,0,2,0
+47,Molothrus ater,Brown-headed Cowbird ,Braunkopf-Kuhstärling,Between,Egg-laying,"When another player takes the “lay eggs” action, this bird lays 1 egg on another with a bowl nest.",n,n,3,None,0,30,n,y,n,0,0,0,1,0,0,0
+125,Athene cunicularia,Burrowing Owl ,Kaninchenkauz,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are rodents, gain 1 rodent and cache it on this card.",y,n,5,Wild,4,53,n,y,n,0,0,1,0,0,0,1
+87,Psaltriparus minimus,Bushtit,Buschmeise,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, also lay 1 egg on this bird.",n,y,2,Wild,5,15,y,y,y,0,0,1,1,0,0,0
+142,Gymnogyps californianus,California Condor,Kalifornischer Kondor,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,1,Ground,1,277,y,y,y,1,0,0,0,0,0,0
+60,Callipepla californica,California Quail ,Schopfwachtel,Activated,Egg-laying,Lay 1 egg on this bird.,n,n,3,Ground,6,36,y,y,n,0,0,1,2,0,0,0
+104,Branta canadensis,Canada Goose ,Kanadagans,Activated,Flocking,Discard 1 seed to tuck 2 cards from the deck behind this bird.,n,y,3,Ground,3,132,n,y,y,0,0,0,2,0,0,0
+32,Poecile carolinensis,Carolina Chickadee ,Carolinameise,Activated,Caching Food,Gain 1 seed from the supply and cache it on this card.,n,n,2,Cavity,3,20,y,n,n,0,0,0.45,0.45,0,0,0
+65,Thryothorus ludovicianus,Carolina Wren,Carolinazaunkönig,Played,Card-drawing,Draw 2 cards.,n,n,1,Cavity,5,20,y,n,n,0,0,0.45,0,0.45,0,0
+143,Haemorhous cassinii,Cassin’s Finch,Cassingimpel,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,4,Bowl,3,30,y,n,n,0,0,0,1,1,0,0
+58,Peucaea cassinii,Cassin’s Sparrow ,Cassinammer,Activated,Egg-laying,Lay 1 egg on any bird.,n,n,3,Ground,2,20,n,y,n,0,0,1,1,0,0,0
+98,Bombycilla cedrorum,Cedar Waxwing,Zedernseidenschwanz,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, gain 1 berry from the supply.",n,y,3,Bowl,3,25,y,y,n,0,0,0,0,2,0,0
+144,Setophaga cerulea,Cerulean Warbler ,Pappelwaldsänger,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,4,Bowl,2,20,y,n,n,0,0,1,1,0,0,0
+145,Calcarius ornatus,Chestnut-Collared Longspur ,Gelbkehl-Spornammer,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,5,Ground,4,25,n,y,n,0,0,1,2,0,0,0
+27,Corvus cryptoleucus,Chihuahuan Raven,Weisshalsrabe,Activated,Food from Supply,Discard 1 egg from any of your other birds to gain 2 food (of any type) from the supply.,n,n,4,Platform,3,112,n,y,n,n,2,0,0,0,0,1
+131,Chaetura pelagica,Chimney Swift,Schornsteinsegler,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,3,Wild,2,36,y,y,y,0,0,2,0,0,0,0
+59,Spizella passerina,Chipping Sparrow ,Schwirrammer,Activated,Egg-laying,Lay 1 egg on any bird.,n,n,1,Bowl,3,23,y,y,n,0,0,0.45,0.45,0,0,0
+67,Aechmophorus clarkii,Clark’s Grebe ,Clarktaucher,Activated,Card-drawing,"Draw 1 card. If you do, discard 1 card from your hand at the end of your turn.",n,n,5,Wild,2,61,n,n,y,0,0,0,0,0,1,0
+39,Nucifraga columbiana,Clark’s Nutcracker ,Kiefernhäher,Activated,Caching Food,Gain 1 seed from the birdfeeder (if available). You may cache it on this card.,n,n,5,Platform,2,61,y,n,n,0,1,0,2,0,0,0
+84,Quiscalus quiscula,Common Grackle ,Purpurgrackel,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, also lay 1 egg on this bird.",n,y,3,Bowl,3,43,y,y,y,0,1,0,1,0,0,0
+80,Gavia immer,Common Loon,Eistaucher,Activated,Card-drawing,Player(s) with fewest Wetland birds: draw 1 card.,n,n,6,Ground,1,117,n,n,y,0,1,0,0,0,1,0
+119,Mergus merganser,Common Merganser ,Gänsesäger,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are fish, gain 1 fish and cache it on this card.",y,n,5,Cavity,4,86,n,n,y,0,1,0,0,0,1,0
+132,Chordeiles minor,Common Nighthawk ,Falkennachtschwalbe,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,3,Ground,2,56,y,y,y,0,0,2,0,0,0,0
+28,Corvus corax,Common Raven,Kolkrabe,Activated,Food from Supply,Discard 1 egg from any of your other birds to gain 2 food (of any type) from the supply.,n,n,5,Platform,2,135,y,y,y,0,2,0,0,0,0,1
+69,Geothylypis trichas,Common Yellowthroat ,Weidengelbkelchen,Activated,Card-drawing,"Draw 2 cards. If you do, discard 1 card from your hand at the end of your turn.",n,n,1,Bowl,4,18,n,n,y,0,0,1,0,0,0,0
+108,Accipiter cooperii,Cooper’s Hawk ,Rundschwanzsperber,Activated,Hunting/Fishing,"Look at a card from the deck. If <75cm, tuck it under this card. If not, discard it.",y,n,3,Platform,2,79,y,n,n,0,0,0,0,0,0,1
+99,Junco hyemalis,Dark-Eyed Junco,Winterammer,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, gain 1 seed from the supply.",n,y,3,Ground,3,23,y,y,n,0,0,1,1,0,0,0
+88,Spiza americana,Dickcissel,Dickzissel,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, also lay 1 egg on this bird.",n,y,4,Ground,3,25,n,y,n,0,0,1,2,0,0,0
+105,Phalacrocorax auritus,Double-Crested Cormorant ,Ohrenscharbe,Activated,Flocking,Discard 1 fish to tuck 2 cards from the deck behind this bird.,n,y,3,Platform,3,132,n,n,y,0,1,0,0,0,1,0
+155,Picoides pubescens,Downy Woodpecker ,Dunenspecht,Played,Other,Play a second bird in your Forest habitat. Pay its normal cost.,n,n,3,Cavity,2,30,y,n,n,0,0,0.3,0.3,0.3,0,0
+156,Sialia sialis,Eastern Bluebird,Rotkehl-Hüttensänger,Played,Other,Play a second bird in your grassland habitat. Pay its normal cost.,n,n,4,Cavity,5,33,n,y,n,0,0,1,0,1,0,0
+31,Tyrannus tyrannus,Eastern Kingbird,Schieferrücken-Königstyrann,Between,Food from Supply,"When another player plays a Forest bird, gain 1 invertebrate from the supply.",n,n,2,Bowl,2,38,y,y,y,0,0,0.45,0,0.45,0,0
+19,Sayornis phoebe,Eastern Phoebe ,Weißbauch-Phoebetyrann,Activated,Food from Supply,All players gain 1 invertebrate from the supply.,n,n,3,Wild,4,28,y,y,y,0,0,0.45,0,0.45,0,0
+126,Megascops asia,Eastern Screech Owl ,Ostkreischeule,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are rodents, gain 1 rodent and cache it on this card.",y,n,4,Cavity,2,51,y,n,n,0,0,0.45,0,0,0,0.45
+127,Buteo regalis,Ferruginous Hawk ,Königsbussard,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are rodents, gain 1 rodent and cache it on this card.",y,n,6,Platform,2,142,n,y,n,0,0,0,0,0,0,2
+29,Corvus assifragus,Fish Crow,Fischkrähe,Activated,Food from Supply,Discard 1 egg from any of your other birds to gain 1 food (of any type) from the supply.,n,n,6,Platform,2,91,y,y,y,0,1,0,0,0,1,0
+68,Sterna forsteri,Forster’s Tern ,Forsterseeschwalbe,Activated,Card-drawing,"Draw 1 card. If you do, discard 1 card from your hand at the end of your turn.",n,n,4,Wild,2,79,n,n,y,0,0,0.45,0,0,0.45,0
+73,Leucophaeus pipixcan,Franklin’s Gull ,Präriemöwe,Activated,Card-drawing,Discard 1 egg to draw 2 cards.,n,n,3,Wild,2,91,n,y,y,0,1,0,0,0,1,0
+109,Aquila chrysaetos,Golden Eagle,Steinadler,Activated,Hunting/Fishing,"Look at a card from the deck. If <100cm, tuck it under this card. If not, discard it.",y,n,8,Platform,1,201,n,y,y,0,0,0,0,0,0,3
+56,Ammodramus savannarum,Grasshopper Sparrow ,Heuschreckenammer,Activated,Egg-laying,Lay 1 egg on any bird.,n,n,2,Ground,2,20,n,y,n,0,0,0.45,0.45,0,0,0
+137,Dumetella carolinensis,Gray Catbird,Katzenvogel,Activated,Other,Repeat a brown power on one other bird in this habitat.,n,n,5,Bowl,3,28,y,y,y,0,0,1,0,2,0,0
+157,Ardea herodias,Great Blue Heron,Kanadareiher,Played,Other,Play a second bird in your Wetland habitat. Pay its normal cost.,n,n,5,Platform,2,183,n,n,y,0,0,1,0,0,1,0
+1,Myiarchus crinitus,Great Crested Flycatcher ,Gelbbauch-Schopftyrann,Activated,Food from Birdfeeder,"Gain 1 invertebrate from the birdfeeder, if there is one.",n,n,5,Cavity,3,33,y,n,n,0,0,1,0,1,0,0
+158,Ardea alba,Great Egret,Silberreiher,Played,Other,Play a second bird in your Wetland habitat. Pay its normal cost.,n,n,7,Platform,3,130,n,n,y,0,0,0,0,0,2,1
+110,Bubo virginianus,Great Horned Owl ,Virginiauhu,Activated,Hunting/Fishing,"Look at a card from the deck. If <100cm, tuck it under this card. If not, discard it.",y,n,8,Platform,2,112,y,n,n,0,0,0,0,0,0,3
+146,Tympanuchus cupido,Greater Prairie-Chicken ,Präriehuhn,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,5,Ground,4,71,n,y,n,0,0,1,2,0,0,0
+111,Geococcyx californianus,Greater Roadrunner ,Wegekuckuck,Activated,Hunting/Fishing,"Look at a card from the deck. If <50cm, tuck it under this card. If not, discard it.",y,n,7,Platform,2,56,n,y,n,0,1,1,0,0,0,1
+24,Butorides virescens,Green Heron,Grünreiher,Activated,Food from Supply,Trade 1 food of any type for any other food from the supply.,n,n,4,Platform,3,66,n,n,y,0,0,0.45,0,0,0.45,0
+9,Catharus guttatus,Hermit Thrush,Einseidlerrossel,Activated,Food from Birdfeeder,Player(s) with fewest Forest birds gain 1 food from birdfeeder.,n,n,7,Wild,2,30,y,n,n,0,0,1,0,2,0,0
+139,Lophodytes cucullatus,Hooded Merganser,Kappensäger,Activated,Other,Repeat 1 Predator power in this habitat.,n,n,5,Cavity,4,61,n,n,y,0,0,1,0,0,1,0
+168,Setophaga citrina,Hooded Warbler,Kapuzenwaldsänger,None,None,None,n,n,7,Bowl,3,18,y,n,n,0,0,2,0,0,0,0
+82,Eremophila alpestris,Horned Lark,Ohrenlerche,Between,Flocking,"When another player plays a Grassland bird, tuck 1 card from your hand behind this bird.",n,y,5,Ground,4,30,n,y,n,0,0,1,1,0,0,0
+92,Haemorhous mexicanus,House Finch,Hausgimpel,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,3,Bowl,6,25,y,y,y,0,0,0,1,1,0,0
+159,Troglodytes aedon,House Wren,Nödlicher Hauszaunkönig,Played,Other,Play a second bird in your grassland or forest habitat. Pay its normal cost.,n,n,1,Cavity,5,15,y,y,n,0,0,1,0,0,0,0
+51,Columbina inca,Inca Dove,Inkatäubchen,Played,Egg-laying,Lay 1 egg on each of your birds with a Platform nest.,n,n,2,Platform,4,28,n,y,n,0,0,0,2,0,0,0
+2,Passerina cyanea,Indigo Bunting ,Indigofink,Activated,Food from Birdfeeder,"Gain 1 invertebrate or berry from the birdfeeder, if there is one.",n,n,5,Bowl,3,20,y,y,n,0,0,1,1,1,0,0
+33,Baeolophus ridgwayi,Juniper Titmouse ,Wacholdermeise,Activated,Caching Food,Gain 1 seed from the supply and cache it on this card.,n,n,4,Cavity,3,23,y,n,n,0,0,1,1,0,0,0
+74,Charadrius vociferus,Killdeer,Keilschwanz-Regenpfeifer,Activated,Card-drawing,Discard 1 egg to draw 2 cards.,n,n,1,Ground,3,46,n,y,y,0,0,0.45,0.45,0,0,0
+147,Rallus elegans,King Rail,Königsralle,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,4,Platform,6,51,n,n,y,0,1,1,0,0,1,0
+54,Passerina amoena,Lazuli Bunting ,Lazulifink,Activated,Egg-laying,All players lay 1 egg on any 1 Bowl-nested bird. You may lay 1 egg on 1 additional Bowl-nested bird.,n,n,4,Bowl,4,23,n,y,n,0,0,1,1,1,0,0
+133,Melospiza lincolnii,Lincoln’s Sparrow,Lincolnammer,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,3,Ground,2,20,y,y,y,0,0,1,1,0,0,0
+43,Lanius ludovicianus,Loggerhead Shrike,Lousianawürger,Between,Caching Food,"When another player takes the “gain food” action, if they gain any number of rodents, also gain 1 rodent from the supply and cache it on this card.",n,n,3,Bowl,4,30,n,y,y,0,0,1,0,0,0,1
+63,Anas platyrhynchos,Mallard,Stockente,Activated,Card-drawing,Draw 1 card.,n,n,0,Ground,4,89,n,n,y,0,0,0.45,0.45,0,0,0
+128,Ictinia mississippiensis,Mississippi Kite,Mississippiweih,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are rodents, gain 1 rodent and cache it on this card.",y,n,4,Platform,1,79,y,y,n,0,0,0.45,0,0,0,0.45
+160,Sialia currucoides,Mountain Bluebird ,Berghüttensänger,Played,Other,Play a second bird in your grassland habitat. Pay its normal cost.,n,n,4,Cavity,5,36,n,y,n,0,0,1,0,1,0,0
+34,Poecile gambeli,Mountain Chickadee ,Gambelmeise,Activated,Caching Food,Gain 1 seed from the supply and cache it on this card.,n,n,2,Cavity,3,23,y,n,n,0,0,0.45,0.45,0,0,0
+61,Zenaida macroura,Mourning Dove ,Carolinataube,Activated,Egg-laying,Lay 1 egg on any bird.,n,n,0,Platform,5,46,y,y,y,0,0,0,1,0,0,0
+62,Colinus virginianus,Northern Bobwhite,Virginiawachtel,Activated,Egg-laying,Lay 1 egg on this bird.,n,n,5,Ground,6,33,n,y,n,0,0,0,3,0,0,0
+14,Cardinalis cardinalis,Northern Cardinal ,Rotkardinal,Activated,Food from Supply,Gain 1 berry from the supply.,n,n,3,Bowl,5,30,y,n,n,0,0,0,1,1,0,0
+6,Colaptes auratus,Northern Flicker,Ostgoldspecht,Played,Food from Birdfeeder,Gain all Invertebrate that are in the birdfeeder.,n,n,2,Cavity,4,51,y,y,n,0,0,0.3,0.3,0.3,0,0
+112,Circus cyaneus,Northern Harrier ,Kornweihe,Activated,Hunting/Fishing,"Look at a card from the deck. If <75cm, tuck it under this card. If not, discard it.",y,n,3,Platform,2,109,n,y,y,0,0,0,0,0,0,1
+138,Mimus polyglottos,Northern Mockingbird ,Spottdrossel,Activated,Other,Repeat a brown power on one other bird in this habitat.,n,n,2,Bowl,4,36,y,y,y,0,0,1,0,1,0,0
+75,Spatula clypeata,Northern Shoveler ,Löffelente,Activated,Card-drawing,All players draw 1 card from the deck.,n,n,7,Ground,4,76,n,n,y,0,0,1,2,0,0,0
+21,Pandion raliaetus,Osprey,Fischadler,Activated,Food from Supply,All players gain 1 fish from the supply.,n,n,5,Platform,2,160,n,n,y,0,0,0,0,0,1,0
+148,Passerina ciris,Painted Bunting ,Papstfink,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,5,Bowl,4,23,n,y,n,0,0,1,2,0,0,0
+113,Falco peregrinus,Peregrine Falcon ,Wanderfalke,Activated,Hunting/Fishing,"Look at a card from the deck. If <100cm, tuck it under this card. If not, discard it.",y,n,5,Platform,2,104,n,y,y,0,0,0,0,0,0,2
+70,Podilymbus podiceps,Pied-billed Grebe ,Bindertaucher,Activated,Card-drawing,"Draw 2 cards. If you do, discard 1 card from your hand at the end of your turn.",n,n,0,Platform,4,41,n,n,y,0,0,0.45,0,0,0.45,0
+53,Dryocopus pileatus,Pileated Woodpecker ,Helmspecht,Activated,Egg-laying,All players lay 1 egg on any 1 Cavity-nested bird. You may lay 1 egg on 1 additional Cavity-nested bird.,n,n,4,Cavity,2,74,y,n,n,0,0,1,0,1,0,0
+100,Spinus pinus,Pine Siskin,Fichtenzeisig,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, gain 1 seed from the supply.",n,y,3,Bowl,2,23,y,n,n,0,0,0,2,0,0,0
+169,Protonotaria citrea,Prothonotary Warbler,Zitronenwaldsänger,None,None,None,n,n,8,Cavity,4,23,y,n,y,0,0,2,1,0,0,0
+76,Porphyrio martinicus,Purple Gallinule ,Zwergsultanshuhn,Activated,Card-drawing,All players draw 1 card from the deck.,n,n,7,Platform,4,56,n,n,y,0,1,0,1,1,0,0
+93,Progne subis,Purple Martin,Purpurschwalbe,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,2,Cavity,3,46,n,y,y,0,0,1,0,0,0,0
+101,Sitta pygmaea,Pygmy Nuthatch,Zwergkleiber,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, gain 1 invertebrate or 1 seed from the supply.",n,y,2,Cavity,4,20,y,n,n,0,0,1,1,0,0,0
+23,Loxia curvirostra,Red Crossbill,Fichtenkruezschnabel,Activated,Food from Supply,All players gain 1 seed from the supply.,n,n,6,Bowl,2,28,y,n,n,0,0,0,2,0,0,0
+40,Melanerpes carolinus,Red-Bellied Woodpecker ,Carolinaspecht,Activated,Caching Food,Gain 1 seed from the birdfeeder (if available). You may cache it on this card.,n,n,1,Cavity,3,41,y,n,n,0,0,0.45,0.45,0,0,0
+35,Sitta canadensis,Red-Breasted Nuthatch ,Canadakleiber,Activated,Caching Food,Gain 1 seed from the supply and cache it on this card.,n,n,2,Cavity,3,23,y,n,n,0,0,0.45,0.45,0,0,0
+149,Picoides borealis,Red-Cockaded Woodpecker ,Kokardenspecht,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,4,Cavity,2,36,y,n,n,0,0,1,0,1,0,0
+161,Vireo olivaceus,Red-Eyed Vireo ,Rotaugenvireo,Played,Other,Play a second bird in your Forest habitat. Pay its normal cost.,n,n,3,Wild,2,25,y,n,n,0,0,0.45,0,0.45,0,0
+41,Melanerpes erythrocephalus,Red-Headed Woodpecker ,Rotkopfspecht,Activated,Caching Food,Gain 1 seed from the birdfeeder (if available). You may cache it on this card.,n,n,4,Cavity,3,43,y,y,y,0,1,1,1,0,0,0
+114,Buteo lineatus,Red-Shouldered Hawk ,Rotschulterbussard,Activated,Hunting/Fishing,"Look at a card from the deck. If <75cm, tuck it under this card. If not, discard it.",y,n,3,Platform,2,102,y,n,n,0,0,0,0,0,0,1
+115,Buteo jamaicensis,Red-Tailed Hawk ,Rotschwanzbussard,Activated,Hunting/Fishing,"Look at a card from the deck. If <75cm, tuck it under this card. If not, discard it.",y,n,5,Platform,2,124,y,y,y,0,0,0,0,0,0,2
+83,Agelaius phoeniceus,Red-Winged Blackbird ,Rotflügelstärling,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, also lay 1 egg on this bird.",n,y,2,Bowl,3,33,n,y,y,0,0,0,1,0,0,0
+94,Larus delawarensis,Ring-Billed Gull,Ringschnabelmöwe,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,4,Ground,2,122,n,n,y,0,2,0,0,0,0,0
+3,Pheucticus ludovicianus,Rose-breasted Grosbeak ,Rosenbrust-Kernknacker,Activated,Food from Birdfeeder,"Gain 1 seed or fruit from the birdfeeder, if there is one.",n,n,6,Bowl,3,33,y,n,n,0,0,1,1,1,0,0
+150,Platalea ajaja,Roseate Spoonbill ,Rosalöffler,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,6,Platform,2,127,n,n,y,0,0,1,1,0,1,0
+162,Regulus calendula,Ruby-crowned Kinglet ,Rubingoldhähnchen,Played,Other,Play a second bird in your Forest habitat. Pay its normal cost.,n,n,2,Bowl,3,20,y,n,n,0,0,0.3,0.3,0.3,0,0
+8,Archilochus colubris,Ruby-throated Hummingbird,Rubinkehlkolibri,Activated,Food from Birdfeeder,"Each player gains 1 food from the birdfeeder, starting with the player of your choice.",n,n,4,Bowl,2,10,y,y,y,0,1,0,0,0,0,0
+71,Oxyura jamaicensus,Ruddy Duck,Schwarzkopf-Ruderente,Activated,Card-drawing,"Draw 2 cards. If you do, discard 1 card from your hand at the end of your turn.",n,n,0,Platform,5,48,n,n,y,0,0,0.45,0.45,0,0,0
+106,Antigone canadensis,Sandhill Crane,Kanadakranich,Activated,Flocking,Discard 1 seed to tuck 2 cards from the deck behind this bird.,n,y,5,Ground,1,196,n,y,y,0,1,0,2,0,0,0
+163,Passerculus sandwichensis,Savannah Sparrow ,Grasammer,Played,Other,Play a second bird in your grassland habitat. Pay its normal cost.,n,n,2,Ground,3,18,n,y,n,0,0,0.45,0.45,0,0,0
+52,Sayornis saya,Say’s Phoebe,Zimtbauch-Phoebetyrann,Played,Egg-laying,Lay 1 egg on each of your birds with a Bowl nest.,n,n,5,Bowl,3,33,n,y,n,0,0,3,0,0,0,0
+20,Tyrannus forficatus,Scissor-Tailed Flycatcher ,Scherenschwanz-Königstyrann,Activated,Food from Supply,All players gain 1 invertebrate from the supply.,n,n,8,Bowl,2,38,n,y,n,0,0,2,0,1,0,0
+120,Egretta thula,Snowy Egret ,Schmuckreiher,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are fish, gain 1 fish and cache it on this card.",y,n,4,Platform,2,104,n,n,y,0,0,0.45,0,0,0.45,0
+134,Melospiza melodia,Song Sparrow ,Singammer,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,0,Bowl,5,20,y,y,y,0,0,0.3,0.3,0.3,0,0
+151,Strix occidentalis,Spotted Owl,Fleckenkauz,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,5,Cavity,1,102,y,n,n,0,0,0,0,0,0,2
+77,Actitis macularius,Spotted Sandpiper ,Drosseluferläufer,Activated,Card-drawing,All players draw 1 card from the deck.,n,n,5,Ground,2,38,n,n,y,0,0,1,0,0,0,0
+15,Pipilo maculatus,Spotted Towhee ,Fleckengrundammer,Activated,Food from Supply,Gain 1 seed from the supply.,n,n,0,Ground,4,28,y,y,n,0,0,0.3,0.3,0.3,0,0
+152,Anthus spragueii,Sprague’s Pipit,Präriepieper,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,3,Ground,3,25,n,y,n,0,0,1,1,0,0,0
+42,Cyanocitta stelleri,Steller’s Jay,Diademhäher,Activated,Caching Food,Gain 1 seed from the birdfeeder (if available). You may cache it on this card.,n,n,5,Bowl,2,48,y,n,n,0,1,0,2,0,0,0
+116,Buteo swainsoni,Swainson’s Hawk,Präriebussard,Activated,Hunting/Fishing,"Look at a card from the deck. If <75cm, tuck it under this card. If not, discard it.",y,n,5,Platform,2,130,n,y,n,0,0,1,0,0,0,1
+95,Tachycineta bicolor,Tree Swallow ,Sumpfschwalbe,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,3,Cavity,4,38,n,n,y,0,0,1,0,1,0,0
+170,Cygnus buccinator,Trumpeter Swan,Trompeterschwan,None,None,None,n,n,9,Ground,2,203,n,n,y,0,1,0,2,0,0,0
+164,Baeolophus bicolor,Tufted Titmouse,Indianermeise,Played,Other,Play a second bird in your Forest habitat. Pay its normal cost.,n,n,2,Cavity,3,25,y,n,n,0,0,0.3,0.3,0.3,0,0
+12,Cathartes aura,Turkey Vulture,Truthahngeier,Between,Food from Birdfeeder,"When another player’s predator succeeds, gain 1 food from the birdfeeder.",n,n,1,Cavity,1,170,y,y,y,1,0,0,0,0,0,0
+96,Tachycineta thalassina,Violet-Green Swallow ,Veilchenschwalbe,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,3,Cavity,3,36,y,y,y,0,0,2,0,0,0,0
+55,Sturnella neglecta,Western Meadowlark,Wiesenstärling,Activated,Egg-laying,All players lay 1 egg on any 1 Ground-nested bird. You may lay 1 egg on 1 additional Ground-nested bird.,n,n,2,Ground,4,38,n,y,n,0,0,1,1,0,0,0
+4,Piranga ludoviciana,Western Tanager,Kieferntangare,Activated,Food from Birdfeeder,"Gain 1 invertebrate or berry from the birdfeeder, if there is one.",n,n,6,Bowl,2,30,y,n,n,0,0,2,0,1,0,0
+36,Sitta carolinensis,White-breasted Nuthatch ,Carolinakleiber,Activated,Caching Food,Gain 1 seed from the birdfeeder and cache it on this card.,n,n,2,Cavity,3,28,y,n,n,0,0,0.45,0.45,0,0,0
+135,Zonotrichia luecophrys,White-Crowned Sparrow ,Dachsammer,Activated,Other,"If bird is to right of all other birds in its habitat, move it to another habitat.",n,n,2,Ground,5,25,y,y,y,0,0,1,1,0,0,0
+121,Plegadis chihi,White-Faced Ibis ,Brillensichler,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are fish, gain 1 fish and cache it on this card.",y,n,8,Platform,2,91,n,n,y,0,0,2,0,0,1,0
+153,Grus americana,Whooping Crane,Scheikranich,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,6,Ground,1,221,n,n,y,0,3,0,0,0,0,0
+165,Meleagris gallopavo,Wild Turkey,Truthuhn,None,None,None,n,n,8,Ground,5,135,y,y,n,0,0,0,2,1,0,0
+122,Tringa semipalmata,Willet,Schlammtreter,Activated,Hunting/Fishing,"Roll all dice not in birdfeeder. If any are fish, gain 1 fish and cache it on this card.",y,n,4,Ground,2,66,n,n,y,0,0,0.45,0,0,0.45,0
+78,Gallinago delicata,Wilson’s Snipe,Wilsonbekassine,Activated,Card-drawing,All players draw 1 card from the deck.,n,n,5,Ground,2,41,n,n,y,0,0,1,0,0,0,0
+72,Aix sponsa,Wood Duck,Brautente,Activated,Card-drawing,"Draw 2 cards. If you do, discard 1 card from your hand at the end of your turn.",n,n,4,Cavity,4,76,y,n,y,0,0,0,2,1,0,0
+154,Mycteria americana,Wood Stork,Waldstorch,Played,Other,Draw 2 new bonus cards and keep 1.,n,n,6,Platform,2,155,n,n,y,0,1,0,0,0,1,1
+16,Sphyrapicus varius,Yellow-Bellied Sapsucker ,Gelbbauch-Saftlecker,Activated,Food from Supply,Gain 1 invertebrate from the supply.,n,n,3,Cavity,3,41,y,n,n,0,0,1,0,1,0,0
+48,Coccyzus americanus,Yellow-Billed Cuckoo,Gelbsschnabel-Kuckuck,Between,Egg-laying,"When another player takes the “lay eggs” action, this bird lays 1 egg on another with a bowl nest.",n,n,5,Platform,2,46,y,n,n,0,1,2,0,0,0,0
+136,Icteria virens,Yellow-Breasted Chat ,Gelbbrust-Waldsänger,Activated,Other,"If this bird is to the right of all other birds in its habitat, move it to another habitat.",n,n,5,Bowl,3,25,y,y,y,0,0,1,0,2,0,0
+86,Xanthocephalus xanthocephalus,Yellow-Headed Blackbird ,Brillenstärling,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, also lay 1 egg on this bird.",n,y,4,Bowl,3,38,n,n,y,0,0,1,1,0,0,0
+97,Setophaga coronata,Yellow-Rumped Warbler ,Kronwaldsänger,Activated,Flocking,"Tuck a card from your hand behind this bird. If you do, draw 1 card.",n,y,1,Bowl,4,23,y,n,n,0,0,0.3,0.3,0.3,0,0
