@@ -1,5 +1,5 @@
 import { Habitat } from "./Habitat";
-import {habitatTypes} from "./types";
+import {habitatTypes} from "../../../habitatTypes";
 
 export {habitatTypes};
 export default Habitat;
