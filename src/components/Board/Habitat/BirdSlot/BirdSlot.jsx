@@ -3,10 +3,10 @@ import StyledBirdSlot from "./BirdSlot.style";
 import {BirdCard} from "../../../BirdCard/BirdCard";
 import birds from "../../../../birds";
 
-export const BirdSlot = () => {
+export const BirdSlot = ({birdId}) => {
     return (
         <StyledBirdSlot>
-            <BirdCard bird={birds[4]}/>
+            {birdId && <BirdCard bird={birds[birdId]}/>}
         </StyledBirdSlot>
     )
 };

@@ -1,18 +1,22 @@
 import styled from "styled-components";
 
-const StyledRequiredHabitats = styled.div`
+const StyledRequiredHabitatsWrapper = styled.div`
     display: flex;
-    position: relative;
-    padding-top: 12px;
+    padding-top: 16px;
 `;
 
-const StyledThirdHabitat = styled.div`
+const StyledRequiredHabitat = styled.div`
+
+`;
+
+const StyledThirdRequiredHabitat = styled.div`
     position: absolute;
     top: 0;
-    left: 11px;
+    left: 17px;
 `;
 
 export {
-    StyledRequiredHabitats,
-    StyledThirdHabitat
+    StyledRequiredHabitatsWrapper,
+    StyledRequiredHabitat,
+    StyledThirdRequiredHabitat
 };

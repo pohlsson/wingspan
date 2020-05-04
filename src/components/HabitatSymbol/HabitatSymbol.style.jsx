@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { habitatTypes } from "../../habitatTypes";
+import { habitatTypes } from "../../types";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const StyledHabitatSymbol = styled.div`
@@ -8,11 +8,11 @@ const StyledHabitatSymbol = styled.div`
 
 const StyledBack = styled.div`
     transform: rotate(45deg);
-    height: ${props => props.size === 'small' ? 14 : 75}px;
-    width: ${props => props.size === 'small' ? 14 : 75}px;
+    height: ${props => props.size === 'small' ? 20 : 75}px;
+    width: ${props => props.size === 'small' ? 20 : 75}px;
     position: relative;
     border-radius: 3px;
-    margin: 4px;
+    margin: 6px;
     box-shadow: -47px 56px 119px -38px rgba(0,0,0,0.96);
     background: ${props => {
     switch (props.type) {
@@ -27,14 +27,13 @@ const StyledBack = styled.div`
 `;
 
 const StyledIcon = styled(FontAwesomeIcon)`
-    ${props => props.size === 'small' && 'display: none;'}
+    position: absolute;
+    top: ${props => props.size === 'small' ? 3 : 16}px;
+    left: ${props => props.size === 'small' ? 9 : 19}px;
+    max-height: ${props => props.size === 'small' ? 14 : 50}px;
+    max-width: ${props => props.size === 'small' ? 14 : 50}px;
     font-size: 50px;
     color: #fff;
-    position: absolute;
-    min-width: 50px;
-    min-height: 50px;
-    top: 15px;
-    left: 15px;
 `;
 
 export {

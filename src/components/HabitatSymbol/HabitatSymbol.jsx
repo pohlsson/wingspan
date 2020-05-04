@@ -1,16 +1,15 @@
 import React from "react";
 import {StyledBack, StyledHabitatSymbol, StyledIcon} from "./HabitatSymbol.style";
-import {faTree, faSeedling, faWater} from "@fortawesome/free-solid-svg-icons";
-import {habitatTypes} from "../../habitatTypes";
+import {habitatTypes} from "../../types";
 
 const getIconForHabitat = (type) => {
     switch (type) {
         case habitatTypes.FOREST:
-            return faTree;
+            return 'trees';
         case habitatTypes.FIELD:
-            return faSeedling;
+            return 'seedling';
         case  habitatTypes.WATER:
-            return faWater;
+            return 'water';
     }
 };
 
@@ -19,7 +18,7 @@ export const HabitatSymbol = ({type, size}) => {
     return (
         <StyledHabitatSymbol>
             <StyledBack type={type} size={size}/>
-            <StyledIcon icon={icon} size={size}/>
+            <StyledIcon icon={['fas', icon]} size={size}/>
         </StyledHabitatSymbol>
     )
 };
