@@ -7,11 +7,11 @@ import {useSelector} from "react-redux";
 
 
 
-export const Habitat = ({ type }) => {
+export const Habitat = ({ habitatType }) => {
     const NUMBER_OF_BIRDS_SLOTS = 5;
 
     let birdSlots = [];
-    const birdsInHabitat = useSelector(state => state.player.birdsPlayed[type]);
+    const birdsInHabitat = useSelector(state => state.player.birdsPlayed[habitatType]);
 
     const createBirdSlots = () => {
         for(let i = 0; i < NUMBER_OF_BIRDS_SLOTS; i += 1) {
@@ -23,9 +23,9 @@ export const Habitat = ({ type }) => {
 
     return (
         <StyledHabitat>
-            <HabitatInfo type={type}/>
+            <HabitatInfo habitatType={habitatType}/>
             {birdSlots.map(birdSlot => birdSlot)}
-            <PlayBirdButton habitat={type} />
+            <PlayBirdButton habitat={habitatType} />
         </StyledHabitat>
     )
 };

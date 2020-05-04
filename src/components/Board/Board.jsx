@@ -12,9 +12,9 @@ const StyledBoard = styled.div`
 export const Board = () => {
     return (
         <StyledBoard>
-            <Habitat type={habitatTypes.FOREST}/>
-            <Habitat type={habitatTypes.FIELD}/>
-            <Habitat type={habitatTypes.WATER} />
+            <Habitat habitatType={habitatTypes.FOREST}/>
+            <Habitat habitatType={habitatTypes.FIELD}/>
+            <Habitat habitatType={habitatTypes.WATER} />
         </StyledBoard>
     )
 };

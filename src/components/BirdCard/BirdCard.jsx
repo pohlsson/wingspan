@@ -1,25 +1,26 @@
 import React from "react";
-import {habitatTypes} from "../Board/Habitat";
+import { habitatTypes } from "../Board/Habitat";
 import RequiredHabitats from "./RequiredHabitats";
 import RequiredFood from "./RequiredFood";
-import {foodTypes} from "../../types";
-import {StyledBirdCard, StyledNameSection, StyledRequirementsSection} from "./BirdCard.style";
+import { foodTypes } from "../../types";
+import { StyledBirdCard, StyledRequirementsSection } from "./BirdCard.style";
+import NameSection from "./NameSection";
 
 const mapHabitats = (forest, field, water) => {
     let habitats = [];
-    if(forest === 'y') {
+    if (forest === 'y') {
         habitats.push(habitatTypes.FOREST);
     }
-    if(field === 'y') {
+    if (field === 'y') {
         habitats.push(habitatTypes.FIELD);
     }
-    if(water === 'y') {
+    if (water === 'y') {
         habitats.push(habitatTypes.WATER);
     }
     return habitats;
 };
 
-export const BirdCard = ({bird}) => {
+export const BirdCard = ({ bird }) => {
     const {
         EnglishName: name,
         ScientificName: latinName,
@@ -48,13 +49,10 @@ export const BirdCard = ({bird}) => {
     const habitats = mapHabitats(habitatForest, habitatField, habitatWater);
     return (
         <StyledBirdCard>
-            <StyledNameSection>
-                <h3>{name}</h3>
-                <p>{latinName}</p>
-            </StyledNameSection>
+            <NameSection name={name} latinName={latinName}/>
             <StyledRequirementsSection>
-                <RequiredHabitats habitats={habitats} />
-                <RequiredFood food={food} />
+                <RequiredHabitats habitats={habitats}/>
+                <RequiredFood food={food}/>
             </StyledRequirementsSection>
         </StyledBirdCard>
     )

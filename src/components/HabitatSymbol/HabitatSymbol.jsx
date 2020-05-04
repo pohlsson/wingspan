@@ -1,6 +1,7 @@
 import React from "react";
-import {StyledBack, StyledHabitatSymbol, StyledIcon} from "./HabitatSymbol.style";
-import {habitatTypes} from "../../types";
+import { StyledIconWrapper } from "./HabitatSymbol.style";
+import { habitatTypes } from "../../types";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const getIconForHabitat = (type) => {
     switch (type) {
@@ -13,12 +14,11 @@ const getIconForHabitat = (type) => {
     }
 };
 
-export const HabitatSymbol = ({type, size}) => {
-    const icon = getIconForHabitat(type);
+export const HabitatSymbol = ({habitatType, size = 4}) => {
+    const icon = getIconForHabitat(habitatType);
     return (
-        <StyledHabitatSymbol>
-            <StyledBack type={type} size={size}/>
-            <StyledIcon icon={['fas', icon]} size={size}/>
-        </StyledHabitatSymbol>
+        <StyledIconWrapper type={habitatType} size={size}>
+            <FontAwesomeIcon icon={['fas', icon]} />
+        </StyledIconWrapper>
     )
 };

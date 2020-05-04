@@ -2,7 +2,7 @@
 const initialState = {
     actionsLeft: 8,
     birdsPlayed: {
-        FOREST: [],
+        FOREST: [3],
         FIELD: [],
         WATER: []
     }

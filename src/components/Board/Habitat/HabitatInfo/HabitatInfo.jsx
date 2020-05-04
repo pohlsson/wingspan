@@ -2,10 +2,10 @@ import React from "react";
 import StyledHabitatInfo from "./HabitatInfo.style";
 import HabitatSymbol from "../../../HabitatSymbol";
 
-export const HabitatInfo = ({ type }) => {
+export const HabitatInfo = ({ habitatType }) => {
     return (
         <StyledHabitatInfo>
-            <HabitatSymbol type={type} />
+            <HabitatSymbol habitatType={habitatType} />
         </StyledHabitatInfo>
     )
 };
