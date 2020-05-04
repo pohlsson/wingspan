@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 const StyledBirdSlot = styled.div`
-    flex-basis: ${((window.innerHeight / 3) - 40)  / 1.2}px;
-    height: ${(window.innerHeight / 3) - 40}px;
+    flex-basis: 18em;
+    height: 25em;
     flex-shrink: 0;
     margin: 10px;
     border: 1px solid #eee;
