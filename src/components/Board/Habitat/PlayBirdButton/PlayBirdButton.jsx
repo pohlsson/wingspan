@@ -1,18 +1,19 @@
 import {useDispatch, useSelector} from "react-redux";
 import React from "react";
+import {openHand} from "../../../../actions/birds";
 
 export const PlayBirdButton = ({habitat}) => {
     const actionsLeft = useSelector(state => state.player.actionsLeft);
     const dispatch = useDispatch();
-    const action = {
-        type: 'PLAY_BIRD',
-        payload: {
-            habitat,
-            birdId:Math.floor(Math.random() * (100 - 1 + 1) + 1)
+
+    const payload = {
+        newBirdData: {
+            habitat
         }
     };
+
     return (
-        <button onClick={() => dispatch(action)}>
+        <button onClick={() => dispatch(openHand(payload))}>
             {actionsLeft}
         </button>
     )

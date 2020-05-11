@@ -2,7 +2,7 @@ import { Provider } from 'react-redux';
 import './fontawesome.js';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
+import App from './components/App.jsx';
 import * as serviceWorker from './serviceWorker';
 import rootReducer from './reducers';
 import {createStore} from "redux";

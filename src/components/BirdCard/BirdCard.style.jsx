@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const StyledBirdCard = styled.div`
     background-color: #ddd;
-    height: 100%;
+    width: ${((window.innerHeight / 3) - 40)  / 1.3}px;
+    height: ${(window.innerHeight / 3) - 40}px;
     position: relative;
     border: 1px solid #999;
     border-radius: 5px;

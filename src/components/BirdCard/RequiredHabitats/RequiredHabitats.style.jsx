@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import {habitatColors} from "../../../colors";
 
 const StyledRequiredHabitatsWrapper = styled.div`
     display: flex;
@@ -10,6 +11,7 @@ const StyledRequiredHabitatsWrapper = styled.div`
 const StyledRequiredHabitat = styled.div`
     margin-right: 1em;
     margin-bottom: 1em;
+    background: ${props => habitatColors[props.habitatType]};
 `;
 
 const StyledThirdRequiredHabitat = styled.div`

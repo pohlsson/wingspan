@@ -5,8 +5,6 @@ import HabitatInfo  from "./HabitatInfo";
 import PlayBirdButton from "./PlayBirdButton";
 import {useSelector} from "react-redux";
 
-
-
 export const Habitat = ({ habitatType }) => {
     const NUMBER_OF_BIRDS_SLOTS = 5;
 

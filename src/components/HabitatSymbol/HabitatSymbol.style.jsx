@@ -1,21 +1,12 @@
 import styled from "styled-components";
-import { habitatTypes } from "../../types";
+import {habitatColors} from "../../colors";
 
 const StyledIconWrapper = styled.div`
     color: #fff;
     transform: rotate(45deg);
     height: ${props => props.size}em;
     width: ${props => props.size}em;
-    background: ${props => {
-        switch (props.type) {
-            case habitatTypes.FOREST:
-                return '#576b57';
-            case habitatTypes.FIELD:
-                return '#F0E68C';
-            case habitatTypes.WATER:
-                return '#0D4F8B';
-        }
-    }};
+    background: ${props => habitatColors[props.habitatType]};
     
     svg {
         transform: rotate(-45deg);

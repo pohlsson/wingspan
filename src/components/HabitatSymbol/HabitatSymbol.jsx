@@ -17,7 +17,7 @@ const getIconForHabitat = (type) => {
 export const HabitatSymbol = ({habitatType, size = 4}) => {
     const icon = getIconForHabitat(habitatType);
     return (
-        <StyledIconWrapper type={habitatType} size={size}>
+        <StyledIconWrapper habitatType={habitatType} size={size}>
             <FontAwesomeIcon icon={['fas', icon]} />
         </StyledIconWrapper>
     )
