@@ -1,5 +1,5 @@
 import {library} from '@fortawesome/fontawesome-svg-core';
-import {faTrees} from '@fortawesome/pro-solid-svg-icons';
+import {faTrees, faBan, faStarOfLife} from '@fortawesome/pro-solid-svg-icons';
 import {faWheat, faSquirrel, faAppleAlt, faFish, faBug} from '@fortawesome/pro-light-svg-icons';
 import {faSeedling, faWater} from '@fortawesome/free-solid-svg-icons';
 
@@ -11,5 +11,7 @@ library.add(
     faSquirrel,
     faAppleAlt,
     faFish,
-    faBug
+    faBug,
+    faBan,
+    faStarOfLife
 );

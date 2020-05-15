@@ -1,4 +1,4 @@
-import {habitatTypes} from "../../types";
+import {foodTypes, habitatTypes} from "../../types";
 
 const selectBirdList = state => state.birdList;
 
@@ -23,4 +23,26 @@ export const selectAllowedHabitatsById = (state, birdId) => {
         [habitatTypes.FIELD]: habitatField,
         [habitatTypes.WATER]: habitatWater
     }
+};
+
+export const selectFoodCostById = (state, birdId) => {
+    const {foodInsect, foodFish, foodFruit, foodRodent, foodSeed, foodWild, foodNone} = selectBirdById(state, birdId);
+    const foodCosts = {
+        [foodTypes.INSECT]: foodInsect,
+        [foodTypes.FISH]: foodFish,
+        [foodTypes.FRUIT]: foodFruit,
+        [foodTypes.RODENT]: foodRodent,
+        [foodTypes.SEED]: foodSeed,
+        [foodTypes.WILD]: foodWild,
+        [foodTypes.NONE]: foodNone
+    };
+
+    Object.keys(foodCosts).forEach(foodType => {
+        if(foodCosts[foodType] <= 0) {
+            delete foodCosts[foodType];
+        }
+    });
+
+    return foodCosts;
+
 };

@@ -2,26 +2,19 @@ import styled from "styled-components";
 import {habitatColors} from "../../../colors";
 
 const StyledRequiredHabitatsWrapper = styled.div`
+    padding: 4px 2px;
     display: flex;
-    padding-top: 2.5em;
-    padding-left: 1em;
-    min-height: 2em;
 `;
 
 const StyledRequiredHabitat = styled.div`
-    margin-right: 1em;
-    margin-bottom: 1em;
     background: ${props => habitatColors[props.habitatType]};
+    flex-basis: 33%;
+    flex-shrink: 0;
+    height: 10px;
 `;
 
-const StyledThirdRequiredHabitat = styled.div`
-    position: absolute;
-    top: 1em;
-    left: 2.5em;
-`;
 
 export {
     StyledRequiredHabitatsWrapper,
-    StyledRequiredHabitat,
-    StyledThirdRequiredHabitat
+    StyledRequiredHabitat
 };

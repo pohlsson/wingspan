@@ -6,13 +6,14 @@ const mapBird = bird => {
         habitatForest: bird.HabitatForest === 'y',
         habitatField: bird.HabitatGrasslands === 'y',
         habitatWater: bird.HabitatWetlands === 'y',
-        foodFish: bird.FoodFish,
-        foodFruit: bird.FoodFruit,
-        foodInsect: bird.FoodInvertebrate,
-        foodRodent: bird.FoodRodent,
-        foodSeed: bird.FoodSeed,
-        foodWild: bird.FoodWild,
-        foodNone: bird.FoodNone
+        foodFish: parseInt(bird.FoodFish),
+        foodFruit: parseInt(bird.FoodFruit),
+        foodInsect: parseInt(bird.FoodInvertebrate),
+        foodRodent: parseInt(bird.FoodRodent),
+        foodSeed: parseInt(bird.FoodSeed),
+        foodWild: parseInt(bird.FoodWild),
+        foodNone: parseInt(bird.FoodNone),
+        eggLimit: parseInt(bird.EggLimit)
     };
 };
 

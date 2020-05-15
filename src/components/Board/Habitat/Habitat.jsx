@@ -13,7 +13,7 @@ export const Habitat = ({ habitatType }) => {
 
     const createBirdSlots = () => {
         for(let i = 0; i < NUMBER_OF_BIRDS_SLOTS; i += 1) {
-            birdSlots.push(<BirdSlot birdId={birdsInHabitat[i]}/>)
+            birdSlots.push(<BirdSlot birdId={birdsInHabitat[i]} key={i}/>)
         }
     };
 

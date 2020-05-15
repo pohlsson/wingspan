@@ -17,16 +17,16 @@ const mapFoodTypeToIcon = foodType => {
         case foodTypes.SEED:
             return "wheat";
         case foodTypes.WILD:
-            return "wild";
+            return "star-of-life";
         case foodTypes.NONE:
-            return "none";
+            return "ban";
     }
 };
 
 const getIconsToRender = food => {
     let icons = [];
     Object.keys(food).map(foodType => {
-        const requiredAmount = parseInt(food[foodType], 10);
+        const requiredAmount = food[foodType];
         for(let i = 0; i< requiredAmount; i +=1) {
             icons.push(mapFoodTypeToIcon(foodType));
         }
@@ -48,7 +48,7 @@ export const RequiredFood = ({food}) => {
         <StyledRequiredFoodWrapper>
             {icons.map((icon, index) => {
                 return (
-                    <StyledFoodIconWrapper>
+                    <StyledFoodIconWrapper key={index}>
                         <FontAwesomeIcon icon={['fal', icon]} size="xs"/>
                         {index !== icons.length - 1 && "+"}
                     </StyledFoodIconWrapper>

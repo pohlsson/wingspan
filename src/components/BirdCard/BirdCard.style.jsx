@@ -16,6 +16,5 @@ export const StyledBirdCard = styled.div`
 
 export const StyledRequirementsSection = styled.div`
     background-color: #bbb;
-    min-width: 7em;
-    max-width: 7em;
+    width: 40%;
 `;

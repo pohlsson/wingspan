@@ -18,6 +18,7 @@ export const Hand = () => {
             <StyledHand>
                 {birdsInHand.map(birdId => (
                     <BirdCardSelector
+                        key={birdId}
                         birdId={birdId}
                         onPlayBirdCard={close}
                     />
